@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iIKEQBqW0FWVWcjGQXIuucWZHhG4XXoUwnEZltmfVl0=",
+  "Source": "TaskDashboardService",
+  "BasePath": "_content/TaskDashboardService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
