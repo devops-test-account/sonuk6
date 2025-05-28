@@ -1,0 +1,12 @@
+﻿Our task management system project involves implementing a microservices architecture, which we have defined to comprise five core services: 
+User Management, Task Creation, Task Assignment, Notifications, and Task Dashboard. To create this architecture, 
+we started by setting up blank solutions for each service and adding common functionalities as building blocks. 
+We also incorporated an API Gateway to facilitate communication between the services. Each microservice is containerized using Docker,
+allowing for efficient deployment and scalability. Initially, we developed the User Management service, which handles user registration,
+authentication, and profile management. Using minimal API, we implemented endpoints for user registration, login, and user profile,
+laying the foundation for further development of the remaining microservices. By adopting a microservices approach, 
+our system will be more modular, flexible, and easier to maintain, enabling us to deliver a robust and efficient task management solution.
+ 
+Developed by: 
+Name: Abhishek Singh
+Email: abhisheks18@chetu.com
